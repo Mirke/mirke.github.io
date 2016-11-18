@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Information about my robot.txt"
+date:   2016-11-17 17:36:00
+categories: Blog
+---
+The _robot.txt_ file contains information for kind robots on the internet.
+The file contains two things, the first is a User-agent which points to a specific robot or all of them.
+The second one is a Disallowed part which tells the robot what files it should not look inside.
+
+My robots.txt file holds:
+
+    User-agent: Google
+    Disallow:
+
+    User-agent: *
+    Disallow: /
+
+First two lines, tells that only the Google bot is allowed to view everything. While the second line tells other bots that they are not welcome to view anything.
