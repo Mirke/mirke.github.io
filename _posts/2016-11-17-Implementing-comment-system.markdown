@@ -3,6 +3,7 @@ layout: post
 title:  "Implementing comments to the blog posts"
 date:   2016-11-17 18:28:00
 categories: Blog
+comments: true
 ---
 
 I registered at _Disqus_ and copied their [Universal Embed Code](http://docs.disqus.com/developers/universal/).

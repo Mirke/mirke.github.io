@@ -3,6 +3,7 @@ layout: post
 title:  "Open Graph making use of it"
 date:   2016-11-18 03:33:00
 categories: Blog
+comments: true
 ---
 
 Open graph is used for marketing one's website. It borrows features from facebook to prompt to other clients on social medias a more interface friendly picture.

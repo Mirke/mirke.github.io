@@ -3,6 +3,7 @@ layout: post
 title:  "Opinion on Static Site Generators"
 date:   2016-11-17 14:53:00
 categories: Blog
+comments: true
 ---
 
 Static site generators (SSG) are great overall, any web server can run them, no security issues, they are fast and quick to update.

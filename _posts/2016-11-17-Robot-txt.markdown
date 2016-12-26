@@ -3,6 +3,7 @@ layout: post
 title:  "Information about my robot.txt"
 date:   2016-11-17 17:36:00
 categories: Blog
+comments: true
 ---
 The _robot.txt_ file contains information for kind robots on the internet.
 The file contains two things, the first is a User-agent which points to a specific robot or all of them.

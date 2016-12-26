@@ -3,6 +3,7 @@ layout: post
 title:  "First impressions on pre-compiled CSS"
 date:   2016-11-17 14:00:00
 categories: Blog
+comments: true
 ---
 
 For me, it took a little while to get into Sass. It might have been that I did not start from the beginning and built up, but instead used the templates Sass files.
